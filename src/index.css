@@ -1,0 +1,37 @@
+
+
+
+.comida {
+    width: 150px; /* Ajusta el tamaño de la imagen */
+      position: absolute;
+      top: 10px; /* Ajusta la posición vertical */
+      left: 10px; /* Ajusta la posición horizontal */
+  }
+  .centrado {
+    font-size: 50px; /* Ajusta el tamaño del texto */
+    font-weight: bold; /* Hace el texto más grueso */
+    margin-top: 20%; /* Centra el texto verticalmente */
+}
+
+.sobre-nosotros {
+    width: 80%; /* Ajusta el ancho de la sección */
+    background-color: #ffffff; /* Fondo blanco para la sección */
+    padding: 20px; /* Espacio interno */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra para darle un efecto de elevación */
+    text-align: left; /* Alinea el texto a la izquierda */
+}
+
+.sobre-nosotros h2 {
+    font-size: 36px; /* Tamaño del título */
+    margin-bottom: 10px; /* Espacio debajo del título */
+}
+
+.sobre-nosotros p {
+    font-size: 18px; /* Tamaño del texto del párrafo */
+    line-height: 1.6; /* Espaciado entre líneas */
+}
+.centrar-imagen {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
